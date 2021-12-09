@@ -1,0 +1,7 @@
+﻿  Serial.cpp
+C:\Users\Caio Peres\source\repos\Trainer\Trainer\Serial.cpp(63,46): warning C4244: 'argumento': conversão de 'wchar_t' para 'const _Elem', possível perda de dados
+          with
+          [
+              _Elem=char
+          ]
+  Trainer.vcxproj -> C:\Users\Caio Peres\source\repos\Trainer\Debug\Trainer.exe
